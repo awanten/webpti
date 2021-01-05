@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Satisfy', cursive;
+    background-image: url('../img/blue-snow.png');
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.content {
+    width: 70%;
+    margin: 0 auto 10px;
+    background-color: white;
+    padding: 20px;
+}
+
+h1 {
+    text-decoration: underline solid;
+    text-align: center;
+    font-size: 42px;
+    padding: 30px 0 5px;
+}
+
+.log {
+    text-align: center;
+    padding: 5px 0 30px;
+}
+
+.log a {
+    display: inline-block;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: #ffe23e;
+}
+
+.tambah {
+    display: inline-block;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: #3fe782;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+
+table {
+    margin-top: 10px;
+    border: 1px solid black;
+}
+
+th {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
